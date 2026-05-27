@@ -1,5 +1,29 @@
 <div align="center">
- <h1>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=10000&color=33FF33&center=true&vCenter=true&width=435&lines=My+Programs+Are+Magical!" alt="Typing SVG" />
- </h1>
+
+# ✨ Magical Computer Programs ✨
+
+### I build magical computer programs. Seriously !
+
 </div>
+
+---
+
+## About Me
+
+I create programs that feel impossible.
+
+My Entire Life programming is the thing i put the most effort on.
+
+---
+
+## Most Important Project Of Mine
+
+### MathAI
+It is a Artifical Intelligence System Written In Python. It can solve NCERT and JEE mathematics !!!!
+It is 1000s of Lines of Code.
+This is a Discovery in Computer Science and is revolutionary for
+* Education
+* Mathematics
+* Computer Science
+
+---
